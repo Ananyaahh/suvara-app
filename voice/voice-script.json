@@ -1,0 +1,41 @@
+{
+  "voice_style": "Speak slowly in a calm, warm, low-pitched male voice with a gentle, meditative pace and soft pauses between sentences. Intimate and unhurried, never dramatic. Read exactly this text:",
+  "clips": [
+    {
+      "file": "inhale_right.mp3",
+      "text": "Inhale through right nostril"
+    },
+    {
+      "file": "exhale_left.mp3",
+      "text": "Exhale through left nostril"
+    },
+    {
+      "file": "inhale_left.mp3",
+      "text": "Inhale through left nostril"
+    },
+    {
+      "file": "exhale_right.mp3",
+      "text": "Exhale through right nostril"
+    },
+    {
+      "file": "hold_breath.mp3",
+      "text": "Hold your breath"
+    },
+    {
+      "file": "relax_breathe.mp3",
+      "text": "Relax and breathe naturally"
+    },
+    {
+      "file": "meditate_naturally.mp3",
+      "text": "Breathe naturally. Let thoughts settle."
+    },
+    {
+      "file": "naadi_transition.mp3",
+      "text": "Naadi Shuththi is complete. Prepare for Pranayamam."
+    },
+    {
+      "file": "pranayamam_transition.mp3",
+      "text": "Pranayamam is complete. Sit comfortably. Prepare for meditation."
+    }
+  ]
+}
